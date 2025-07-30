@@ -18,6 +18,8 @@ Você pode acessar o MongoDB via Compass com a seguinte URI:
 mongodb://localhost:27017/
 ```
 
+E nomear como MongoExample.
+
 ## Selecionando o banco de dados
 
 No shell do MongoDB, execute:
