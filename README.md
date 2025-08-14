@@ -68,6 +68,6 @@ db.movies.insertMany([
 
 ```powershell
 docker compose down
-Esta aplicação tem finalidade exclusivamente didática e não segue as melhores práticas recomendadas para ambientes produtivos.
+```
 
 - Esta aplicação tem finalidade exclusivamente didática e não segue as melhores práticas recomendadas para ambientes produtivos.
