@@ -6,9 +6,9 @@ namespace MongoDbExample.Data.Repositories;
 
 public class MovieRepository : IMovieRepository
 {
-    private readonly IMovieContext _context;
+    private readonly IMongoReviewContext _context;
 
-    public MovieRepository(IMovieContext context)
+    public MovieRepository(IMongoReviewContext context)
     {
         _context = context;
     }

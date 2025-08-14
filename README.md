@@ -65,9 +65,9 @@ db.movies.insertMany([
 ```
 
 ## Observações
-- Os dados serão persistidos na pasta `C:\mongoDbData` conforme configurado no `docker-compose.yml`.
-- Para parar e remover os containers:
 
 ```powershell
 docker compose down
-```
+Esta aplicação tem finalidade exclusivamente didática e não segue as melhores práticas recomendadas para ambientes produtivos.
+
+- Esta aplicação tem finalidade exclusivamente didática e não segue as melhores práticas recomendadas para ambientes produtivos.

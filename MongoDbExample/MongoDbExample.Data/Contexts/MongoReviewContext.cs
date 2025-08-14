@@ -4,11 +4,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace MongoDbExample.Data.Contexts;
 
-public class MovieContext : IMovieContext
+public class MongoReviewContext : IMongoReviewContext
 {
     private readonly IMongoDatabase _database;
 
-    public MovieContext(IConfiguration config)
+    public MongoReviewContext(IConfiguration config)
     {
         var client = new MongoClient(config.GetConnectionString("MongoDb"));
         _database = client.GetDatabase("MongoReview");

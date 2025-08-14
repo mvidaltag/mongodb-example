@@ -7,7 +7,7 @@ public static class MovieExtensions
 {
     public static WebApplicationBuilder AddMovieContext(this WebApplicationBuilder builder)
     {
-        builder.Services.AddSingleton<IMovieContext, MongoDbExample.Data.Contexts.MovieContext>();
+        builder.Services.AddSingleton<IMongoReviewContext, MongoDbExample.Data.Contexts.MongoReviewContext>();
         builder.Services.AddScoped<IMovieRepository, MovieRepository>();
         return builder;
     }

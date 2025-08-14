@@ -1,0 +1,722 @@
+[
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae01" },
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "rating": 8.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae02" },
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "rating": 8.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae03" },
+    "title": "The Matrix",
+    "director": "Lana Wachowski",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": 8.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae04" },
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "year": 1972,
+    "genres": ["Crime", "Drama"],
+    "rating": 9.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae05" },
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "genres": ["Crime", "Drama"],
+    "rating": 8.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae06" },
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "year": 1994,
+    "genres": ["Drama", "Romance"],
+    "rating": 8.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae07" },
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "year": 1999,
+    "genres": ["Drama"],
+    "rating": 8.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae08" },
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "year": 1994,
+    "genres": ["Drama"],
+    "rating": 9.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae09" },
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama"],
+    "rating": 9.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae10" },
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "year": 2000,
+    "genres": ["Action", "Adventure", "Drama"],
+    "rating": 8.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae11" },
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 1997,
+    "genres": ["Drama", "Romance"],
+    "rating": 7.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae12" },
+    "title": "Avatar",
+    "director": "James Cameron",
+    "year": 2009,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "rating": 7.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae13" },
+    "title": "Avengers: Endgame",
+    "director": "Anthony Russo",
+    "year": 2019,
+    "genres": ["Action", "Adventure", "Drama"],
+    "rating": 8.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae14" },
+    "title": "Jurassic Park",
+    "director": "Steven Spielberg",
+    "year": 1993,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": 8.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae15" },
+    "title": "Star Wars: Episode IV",
+    "director": "George Lucas",
+    "year": 1977,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "rating": 8.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae16" },
+    "title": "Back to the Future",
+    "director": "Robert Zemeckis",
+    "year": 1985,
+    "genres": ["Adventure", "Comedy", "Sci-Fi"],
+    "rating": 8.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae17" },
+    "title": "Toy Story",
+    "director": "John Lasseter",
+    "year": 1995,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae18" },
+    "title": "Finding Nemo",
+    "director": "Andrew Stanton",
+    "year": 2003,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae19" },
+    "title": "Up",
+    "director": "Pete Docter",
+    "year": 2009,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae20" },
+    "title": "Coco",
+    "director": "Lee Unkrich",
+    "year": 2017,
+    "genres": ["Animation", "Adventure", "Family"],
+    "rating": 8.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae21" },
+    "title": "Inside Out",
+    "director": "Pete Docter",
+    "year": 2015,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae22" },
+    "title": "Ratatouille",
+    "director": "Brad Bird",
+    "year": 2007,
+    "genres": ["Animation", "Comedy", "Family"],
+    "rating": 8.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae23" },
+    "title": "WALL-E",
+    "director": "Andrew Stanton",
+    "year": 2008,
+    "genres": ["Animation", "Adventure", "Family"],
+    "rating": 8.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae24" },
+    "title": "Monsters, Inc.",
+    "director": "Pete Docter",
+    "year": 2001,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae25" },
+    "title": "Shrek",
+    "director": "Andrew Adamson",
+    "year": 2001,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae26" },
+    "title": "The Lion King",
+    "director": "Roger Allers",
+    "year": 1994,
+    "genres": ["Animation", "Adventure", "Drama"],
+    "rating": 8.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae27" },
+    "title": "Frozen",
+    "director": "Chris Buck",
+    "year": 2013,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae28" },
+    "title": "Moana",
+    "director": "Ron Clements",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae29" },
+    "title": "Zootopia",
+    "director": "Byron Howard",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae30" },
+    "title": "Beauty and the Beast",
+    "director": "Gary Trousdale",
+    "year": 1991,
+    "genres": ["Animation", "Family", "Fantasy"],
+    "rating": 8.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae31" },
+    "title": "Aladdin",
+    "director": "Ron Clements",
+    "year": 1992,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae32" },
+    "title": "Mulan",
+    "director": "Tony Bancroft",
+    "year": 1998,
+    "genres": ["Animation", "Adventure", "Family"],
+    "rating": 7.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae33" },
+    "title": "Tarzan",
+    "director": "Chris Buck",
+    "year": 1999,
+    "genres": ["Animation", "Adventure", "Family"],
+    "rating": 7.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae34" },
+    "title": "Toy Story 2",
+    "director": "John Lasseter",
+    "year": 1999,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae35" },
+    "title": "Toy Story 3",
+    "director": "Lee Unkrich",
+    "year": 2010,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 8.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae36" },
+    "title": "Finding Dory",
+    "director": "Andrew Stanton",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae37" },
+    "title": "Cars",
+    "director": "John Lasseter",
+    "year": 2006,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae38" },
+    "title": "Monsters University",
+    "director": "Dan Scanlon",
+    "year": 2013,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae39" },
+    "title": "Brave",
+    "director": "Mark Andrews",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae40" },
+    "title": "The Incredibles",
+    "director": "Brad Bird",
+    "year": 2004,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 8.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae41" },
+    "title": "The Incredibles 2",
+    "director": "Brad Bird",
+    "year": 2018,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae42" },
+    "title": "Big Hero 6",
+    "director": "Don Hall",
+    "year": 2014,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae43" },
+    "title": "Wreck-It Ralph",
+    "director": "Rich Moore",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae44" },
+    "title": "Ralph Breaks the Internet",
+    "director": "Rich Moore",
+    "year": 2018,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae45" },
+    "title": "Despicable Me",
+    "director": "Pierre Coffin",
+    "year": 2010,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae46" },
+    "title": "Despicable Me 2",
+    "director": "Pierre Coffin",
+    "year": 2013,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae47" },
+    "title": "Despicable Me 3",
+    "director": "Pierre Coffin",
+    "year": 2017,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae48" },
+    "title": "Minions",
+    "director": "Kyle Balda",
+    "year": 2015,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae49" },
+    "title": "Ice Age",
+    "director": "Chris Wedge",
+    "year": 2002,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae50" },
+    "title": "Ice Age: The Meltdown",
+    "director": "Carlos Saldanha",
+    "year": 2006,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae51" },
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "director": "Carlos Saldanha",
+    "year": 2009,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae52" },
+    "title": "Ice Age: Continental Drift",
+    "director": "Steve Martino",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae53" },
+    "title": "Ice Age: Collision Course",
+    "director": "Mike Thurmeier",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 5.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae54" },
+    "title": "Madagascar",
+    "director": "Eric Darnell",
+    "year": 2005,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae55" },
+    "title": "Madagascar: Escape 2 Africa",
+    "director": "Eric Darnell",
+    "year": 2008,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae56" },
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "director": "Eric Darnell",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae57" },
+    "title": "Kung Fu Panda",
+    "director": "Mark Osborne",
+    "year": 2008,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae58" },
+    "title": "Kung Fu Panda 2",
+    "director": "Jennifer Yuh Nelson",
+    "year": 2011,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae59" },
+    "title": "Kung Fu Panda 3",
+    "director": "Alessandro Carloni",
+    "year": 2016,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae60" },
+    "title": "How to Train Your Dragon",
+    "director": "Dean DeBlois",
+    "year": 2010,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 8.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae61" },
+    "title": "How to Train Your Dragon 2",
+    "director": "Dean DeBlois",
+    "year": 2014,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.8
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae62" },
+    "title": "How to Train Your Dragon: The Hidden World",
+    "director": "Dean DeBlois",
+    "year": 2019,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae63" },
+    "title": "The Secret Life of Pets",
+    "director": "Chris Renaud",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.5
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae64" },
+    "title": "Sing",
+    "director": "Garth Jennings",
+    "year": 2016,
+    "genres": ["Animation", "Comedy", "Family"],
+    "rating": 7.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae65" },
+    "title": "Trolls",
+    "director": "Mike Mitchell",
+    "year": 2016,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae66" },
+    "title": "The Croods",
+    "director": "Kirk DeMicco",
+    "year": 2013,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae67" },
+    "title": "The Croods: A New Age",
+    "director": "Joel Crawford",
+    "year": 2020,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae68" },
+    "title": "Hotel Transylvania",
+    "director": "Genndy Tartakovsky",
+    "year": 2012,
+    "genres": ["Animation", "Comedy", "Family"],
+    "rating": 7.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae69" },
+    "title": "Hotel Transylvania 2",
+    "director": "Genndy Tartakovsky",
+    "year": 2015,
+    "genres": ["Animation", "Comedy", "Family"],
+    "rating": 6.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae70" },
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "director": "Genndy Tartakovsky",
+    "year": 2018,
+    "genres": ["Animation", "Comedy", "Family"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae71" },
+    "title": "The Boss Baby",
+    "director": "Tom McGrath",
+    "year": 2017,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae72" },
+    "title": "Megamind",
+    "director": "Tom McGrath",
+    "year": 2010,
+    "genres": ["Animation", "Action", "Comedy"],
+    "rating": 7.2
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae73" },
+    "title": "Shark Tale",
+    "director": "Vicky Jenson",
+    "year": 2004,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae74" },
+    "title": "Bee Movie",
+    "director": "Steve Hickner",
+    "year": 2007,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae75" },
+    "title": "Over the Hedge",
+    "director": "Tim Johnson",
+    "year": 2006,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae76" },
+    "title": "Flushed Away",
+    "director": "David Bowers",
+    "year": 2006,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.6
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae77" },
+    "title": "Chicken Run",
+    "director": "Peter Lord",
+    "year": 2000,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae78" },
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "director": "Nick Park",
+    "year": 2005,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.4
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae79" },
+    "title": "Arthur Christmas",
+    "director": "Sarah Smith",
+    "year": 2011,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.1
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae80" },
+    "title": "The Pirates! Band of Misfits",
+    "director": "Peter Lord",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae81" },
+    "title": "ParaNorman",
+    "director": "Sam Fell",
+    "year": 2012,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 7.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae82" },
+    "title": "Coraline",
+    "director": "Henry Selick",
+    "year": 2009,
+    "genres": ["Animation", "Drama", "Fantasy"],
+    "rating": 7.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae83" },
+    "title": "Kubo and the Two Strings",
+    "director": "Travis Knight",
+    "year": 2016,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae84" },
+    "title": "The Lego Movie",
+    "director": "Phil Lord",
+    "year": 2014,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 7.7
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae85" },
+    "title": "The Lego Batman Movie",
+    "director": "Chris McKay",
+    "year": 2017,
+    "genres": ["Animation", "Action", "Comedy"],
+    "rating": 7.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae86" },
+    "title": "The Lego Ninjago Movie",
+    "director": "Charlie Bean",
+    "year": 2017,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 6.0
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae87" },
+    "title": "Cloudy with a Chance of Meatballs",
+    "director": "Phil Lord",
+    "year": 2009,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae88" },
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "director": "Cody Cameron",
+    "year": 2013,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.3
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae89" },
+    "title": "Rio",
+    "director": "Carlos Saldanha",
+    "year": 2011,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.9
+  },
+  {
+    "_id": { "$oid": "688a6f15096a2cd9cf6fae90" },
+    "title": "Rio 2",
+    "director": "Carlos Saldanha",
+    "year": 2014,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "rating": 6.3
+  }
+]
